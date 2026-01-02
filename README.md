@@ -4,7 +4,7 @@
 - in my git you'll find a bit of everything (math modelling, sql projects and python)
 - ask me abt data and league of legends
 
-[![my git stats!](https://github-readme-stats.vercel.app/api?username=lhdz12&show_icons=true&theme=radical)](https://github.com/lhdz12/github-readme-stats)
+[![my git stats!](https://github-readme-stats.vercel.app/api?username=lhdz12)](https://github.com/lhdz12/github-readme-stats)
 
 <!--
 **lhdz12/lhdz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
