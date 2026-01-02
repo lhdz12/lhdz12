@@ -1,8 +1,8 @@
 ### hi, i'm laurie! ⭐
 
-- data science & math engineering student from <mx/>
+- data science & math engineering student from 🇲🇽
 - in my git you'll find a bit of everything (math modelling, sql projects and python)
-- ask me abt data and league of legends
+- ask me abt data and league of legends ☕
 
 <!--
 **lhdz12/lhdz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
