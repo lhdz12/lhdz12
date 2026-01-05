@@ -2,6 +2,7 @@
 
 - data science & math engineering student from 🇲🇽
 - in my git you'll find a bit of everything (math modelling, sql projects and python)
+- interested in ML, data analysis, and healthcare research 🫀
 - ask me abt data and league of legends
 - i 💗 python
 - always say yes to a cup of coffee ☕
